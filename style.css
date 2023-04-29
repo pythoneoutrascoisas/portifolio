@@ -5,15 +5,3 @@ body {
     font-family:monospace;
     position: relative;
 }
-
-@media screen and (max-width: 576px) {
-    .emblemDisplay {
-        display: none;
-    }
-    .letterSpacing {
-        text-align: center;
-    }
-}
-.letterSpacing {
-    letter-spacing: 15px;
-}
